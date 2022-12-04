@@ -46,6 +46,4 @@ function createSingleImageElement(item){
         })
         img.setAttribute("src", item.image)
         menu.appendChild(img)
-
-
 }
